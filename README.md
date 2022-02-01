@@ -23,8 +23,8 @@
     <h2>Film Rec</h2>
 <img src="000388780017.JPG" alt="film1" width="388" height="200">
 <img src="000388780021.JPG" alt="film1" width="333" height="200">
-<img src="ima/000388780022.JPG" alt="film1" width="333" height="200">
-<img src="ima/000388780027.JPG" alt="film1" width="333" height="200">
+<img src="000388780022.JPG" alt="film1" width="333" height="200">
+<img src="000388780027.JPG" alt="film1" width="333" height="200">
 
 <img src="ima/000388780030.jpg" alt="film1" width="333" height="200">
 <img src="ima/000371930010.jpg" alt="film1" width="300" height="200">
